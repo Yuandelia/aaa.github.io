@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset ="utf-8">
+<title> Table</title>
+</head>
+<body>
+<h1> membuat Tabel dengan Spanning baris dan kolom</h1>
+<table border="1">
+<caption><strong Kompleks Tabel </strong></caption>
+<thead>
+<tr>
+<th rowspan="2"><img src=Pinguin.jpg width="205"
+height="167" alt="Gambar Pinguin"></th>
+<th colspan ="4"><strong>penyebaran pinguin</strong><br></th>
+</tr>
+<tr>
+<th>Jumlah Populasi</th>
+<th> Daerah Penyebaran</th>
+<th> Daerah Konservasi Pinguin</th>
+<th> Usia Hidup</th>
+    
+</tr>
+</thead>
+<tbody>
+<tr>
+    <th>Pinguin Dada Putih</th>
+<td>50.000</td>
+<td>Kutup Utara & Kutup Selatan</td>
+<td>Siberia</td>
+<td> 30 Th</td>
+
+</tr>
+<tbody>
+<table>
+</body>
+</html>
